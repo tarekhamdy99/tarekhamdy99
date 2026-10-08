@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarek Hamdy</h1>
-<h3 align="center">Front-End Developer | Egypt</h3>
+<h3 align="center">Web Developer | Egypt</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tarek-hamdy-06a690340/" target="_blank">
